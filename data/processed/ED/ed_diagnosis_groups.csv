@@ -1,0 +1,185 @@
+principal_diagnosis,state,value
+A00–B99  Certain infectious and parasitic diseases,NSW,125772.0
+C00–D48  Neoplasms,NSW,9216.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,NSW,14781.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",NSW,30455.0
+F00–F99  Mental and behavioural disorders,NSW,94534.0
+G00–G99  Diseases of the nervous system,NSW,34810.0
+H00–H59  Diseases of the eye and adnexa,NSW,47846.0
+H60–H95  Diseases of the ear and mastoid process,NSW,41238.0
+I00–I99  Diseases of the circulatory system,NSW,114651.0
+J00–J99  Diseases of the respiratory system,NSW,233348.0
+K00–K93  Diseases of the digestive system,NSW,164322.0
+L00–L99  Diseases of the skin and subcutaneous tissue,NSW,109661.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,NSW,190564.0
+N00–N99  Diseases of the genitourinary system,NSW,130170.0
+"O00–O99  Pregnancy, childbirth and the puerperium",NSW,23751.0
+P00–P96  Certain conditions originating in the perinatal period,NSW,1922.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",NSW,631.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",NSW,984517.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",NSW,675841.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",NSW,14491.0
+U50–Y98  External causes of morbidity and mortality,NSW,0.0
+Z00–Z99  Factors influencing health status and contact with health services,NSW,78749.0
+Not stated/invalid,NSW,39203.0
+A00–B99  Certain infectious and parasitic diseases,Vic,88147.0
+C00–D48  Neoplasms,Vic,5641.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Vic,10647.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",Vic,21567.0
+F00–F99  Mental and behavioural disorders,Vic,68740.0
+G00–G99  Diseases of the nervous system,Vic,38683.0
+H00–H59  Diseases of the eye and adnexa,Vic,33094.0
+H60–H95  Diseases of the ear and mastoid process,Vic,28037.0
+I00–I99  Diseases of the circulatory system,Vic,79147.0
+J00–J99  Diseases of the respiratory system,Vic,131331.0
+K00–K93  Diseases of the digestive system,Vic,101007.0
+L00–L99  Diseases of the skin and subcutaneous tissue,Vic,59467.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,Vic,107197.0
+N00–N99  Diseases of the genitourinary system,Vic,80953.0
+"O00–O99  Pregnancy, childbirth and the puerperium",Vic,44833.0
+P00–P96  Certain conditions originating in the perinatal period,Vic,4805.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",Vic,204.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Vic,527275.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",Vic,421189.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",Vic,6794.0
+U50–Y98  External causes of morbidity and mortality,Vic,0.0
+Z00–Z99  Factors influencing health status and contact with health services,Vic,25919.0
+Not stated/invalid,Vic,93590.0
+A00–B99  Certain infectious and parasitic diseases,Qld,81851.0
+C00–D48  Neoplasms,Qld,6861.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Qld,8506.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",Qld,21993.0
+F00–F99  Mental and behavioural disorders,Qld,74613.0
+G00–G99  Diseases of the nervous system,Qld,26303.0
+H00–H59  Diseases of the eye and adnexa,Qld,18059.0
+H60–H95  Diseases of the ear and mastoid process,Qld,18254.0
+I00–I99  Diseases of the circulatory system,Qld,71727.0
+J00–J99  Diseases of the respiratory system,Qld,118282.0
+K00–K93  Diseases of the digestive system,Qld,97300.0
+L00–L99  Diseases of the skin and subcutaneous tissue,Qld,63142.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,Qld,91721.0
+N00–N99  Diseases of the genitourinary system,Qld,73790.0
+"O00–O99  Pregnancy, childbirth and the puerperium",Qld,16470.0
+P00–P96  Certain conditions originating in the perinatal period,Qld,2539.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",Qld,571.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Qld,452598.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",Qld,374610.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",Qld,6384.0
+U50–Y98  External causes of morbidity and mortality,Qld,867.0
+Z00–Z99  Factors influencing health status and contact with health services,Qld,29554.0
+Not stated/invalid,Qld,110844.0
+A00–B99  Certain infectious and parasitic diseases,WA,54124.0
+C00–D48  Neoplasms,WA,3234.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,WA,5166.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",WA,10319.0
+F00–F99  Mental and behavioural disorders,WA,36799.0
+G00–G99  Diseases of the nervous system,WA,15391.0
+H00–H59  Diseases of the eye and adnexa,WA,11826.0
+H60–H95  Diseases of the ear and mastoid process,WA,16351.0
+I00–I99  Diseases of the circulatory system,WA,38442.0
+J00–J99  Diseases of the respiratory system,WA,77825.0
+K00–K93  Diseases of the digestive system,WA,62873.0
+L00–L99  Diseases of the skin and subcutaneous tissue,WA,41064.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,WA,37618.0
+N00–N99  Diseases of the genitourinary system,WA,45498.0
+"O00–O99  Pregnancy, childbirth and the puerperium",WA,13203.0
+P00–P96  Certain conditions originating in the perinatal period,WA,1465.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",WA,196.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",WA,179371.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",WA,258590.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",WA,3983.0
+U50–Y98  External causes of morbidity and mortality,WA,1469.0
+Z00–Z99  Factors influencing health status and contact with health services,WA,37486.0
+Not stated/invalid,WA,74724.0
+A00–B99  Certain infectious and parasitic diseases,SA,27069.0
+C00–D48  Neoplasms,SA,1834.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,SA,3350.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",SA,6755.0
+F00–F99  Mental and behavioural disorders,SA,24860.0
+G00–G99  Diseases of the nervous system,SA,9464.0
+H00–H59  Diseases of the eye and adnexa,SA,5118.0
+H60–H95  Diseases of the ear and mastoid process,SA,6264.0
+I00–I99  Diseases of the circulatory system,SA,25148.0
+J00–J99  Diseases of the respiratory system,SA,51825.0
+K00–K93  Diseases of the digestive system,SA,35584.0
+L00–L99  Diseases of the skin and subcutaneous tissue,SA,19368.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,SA,25761.0
+N00–N99  Diseases of the genitourinary system,SA,23949.0
+"O00–O99  Pregnancy, childbirth and the puerperium",SA,7864.0
+P00–P96  Certain conditions originating in the perinatal period,SA,779.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",SA,50.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",SA,198764.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",SA,138398.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",SA,124.0
+U50–Y98  External causes of morbidity and mortality,SA,0.0
+Z00–Z99  Factors influencing health status and contact with health services,SA,10535.0
+Not stated/invalid,SA,13.0
+A00–B99  Certain infectious and parasitic diseases,Tas,7163.0
+C00–D48  Neoplasms,Tas,762.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Tas,900.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",Tas,2163.0
+F00–F99  Mental and behavioural disorders,Tas,6386.0
+G00–G99  Diseases of the nervous system,Tas,4066.0
+H00–H59  Diseases of the eye and adnexa,Tas,1355.0
+H60–H95  Diseases of the ear and mastoid process,Tas,1498.0
+I00–I99  Diseases of the circulatory system,Tas,7959.0
+J00–J99  Diseases of the respiratory system,Tas,12559.0
+K00–K93  Diseases of the digestive system,Tas,11053.0
+L00–L99  Diseases of the skin and subcutaneous tissue,Tas,5033.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,Tas,8873.0
+N00–N99  Diseases of the genitourinary system,Tas,7408.0
+"O00–O99  Pregnancy, childbirth and the puerperium",Tas,1269.0
+P00–P96  Certain conditions originating in the perinatal period,Tas,183.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",Tas,9.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Tas,46578.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",Tas,42665.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",Tas,691.0
+U50–Y98  External causes of morbidity and mortality,Tas,0.0
+Z00–Z99  Factors influencing health status and contact with health services,Tas,14475.0
+Not stated/invalid,Tas,72.0
+A00–B99  Certain infectious and parasitic diseases,ACT,8178.0
+C00–D48  Neoplasms,ACT,324.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,ACT,778.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",ACT,1661.0
+F00–F99  Mental and behavioural disorders,ACT,5392.0
+G00–G99  Diseases of the nervous system,ACT,1961.0
+H00–H59  Diseases of the eye and adnexa,ACT,2156.0
+H60–H95  Diseases of the ear and mastoid process,ACT,1418.0
+I00–I99  Diseases of the circulatory system,ACT,6126.0
+J00–J99  Diseases of the respiratory system,ACT,11964.0
+K00–K93  Diseases of the digestive system,ACT,9319.0
+L00–L99  Diseases of the skin and subcutaneous tissue,ACT,5078.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,ACT,11670.0
+N00–N99  Diseases of the genitourinary system,ACT,7270.0
+"O00–O99  Pregnancy, childbirth and the puerperium",ACT,2194.0
+P00–P96  Certain conditions originating in the perinatal period,ACT,152.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",ACT,25.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",ACT,47229.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",ACT,38394.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",ACT,790.0
+U50–Y98  External causes of morbidity and mortality,ACT,8.0
+Z00–Z99  Factors influencing health status and contact with health services,ACT,1527.0
+Not stated/invalid,ACT,3989.0
+A00–B99  Certain infectious and parasitic diseases,NT,8202.0
+C00–D48  Neoplasms,NT,311.0
+D50–D89  Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,NT,537.0
+"E00–E90  Endocrine, nutritional and metabolic diseases",NT,4288.0
+F00–F99  Mental and behavioural disorders,NT,6859.0
+G00–G99  Diseases of the nervous system,NT,2332.0
+H00–H59  Diseases of the eye and adnexa,NT,2073.0
+H60–H95  Diseases of the ear and mastoid process,NT,2966.0
+I00–I99  Diseases of the circulatory system,NT,5594.0
+J00–J99  Diseases of the respiratory system,NT,16164.0
+K00–K93  Diseases of the digestive system,NT,9707.0
+L00–L99  Diseases of the skin and subcutaneous tissue,NT,11075.0
+M00–M99  Diseases of the musculoskeletal system and connective tissue,NT,12310.0
+N00–N99  Diseases of the genitourinary system,NT,8466.0
+"O00–O99  Pregnancy, childbirth and the puerperium",NT,1311.0
+P00–P96  Certain conditions originating in the perinatal period,NT,128.0
+"Q00–Q99  Congenital malformations, deformations and chromosomal abnormalities",NT,32.0
+"R00–R99  Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",NT,32209.0
+"S00–T98  Injury, poisoning and certain other consequences of external causes",NT,34459.0
+"U07.1, U07.2, and U07.7  Emergency use of codes U07.1, U07.2 and U07.7",NT,722.0
+U50–Y98  External causes of morbidity and mortality,NT,0.0
+Z00–Z99  Factors influencing health status and contact with health services,NT,11609.0
+Not stated/invalid,NT,16763.0

@@ -1,0 +1,121 @@
+state,measure,year,value
+NSW,Median waiting time (minutes),2020–21,14.0
+NSW,90th percentile waiting time (minutes),2020–21,81.0
+NSW,Proportion seen on time (%),2020–21,79.1574
+Vic,Median waiting time (minutes),2020–21,20.0
+Vic,90th percentile waiting time (minutes),2020–21,106.0
+Vic,Proportion seen on time (%),2020–21,67.8197
+Qld,Median waiting time (minutes),2020–21,15.0
+Qld,90th percentile waiting time (minutes),2020–21,80.0
+Qld,Proportion seen on time (%),2020–21,73.5967
+WA,Median waiting time (minutes),2020–21,31.0
+WA,90th percentile waiting time (minutes),2020–21,139.0
+WA,Proportion seen on time (%),2020–21,58.4141
+SA,Median waiting time (minutes),2020–21,22.0
+SA,90th percentile waiting time (minutes),2020–21,140.0
+SA,Proportion seen on time (%),2020–21,60.7761
+Tas,Median waiting time (minutes),2020–21,30.0
+Tas,90th percentile waiting time (minutes),2020–21,127.0
+Tas,Proportion seen on time (%),2020–21,58.4246
+ACT,Median waiting time (minutes),2020–21,48.0
+ACT,90th percentile waiting time (minutes),2020–21,181.0
+ACT,Proportion seen on time (%),2020–21,47.875
+NT,Median waiting time (minutes),2020–21,27.0
+NT,90th percentile waiting time (minutes),2020–21,117.0
+NT,Proportion seen on time (%),2020–21,60.9322
+NSW,Median waiting time (minutes),2021–22,14.0
+NSW,90th percentile waiting time (minutes),2021–22,89.0
+NSW,Proportion seen on time (%),2021–22,77.0933
+Vic,Median waiting time (minutes),2021–22,22.0
+Vic,90th percentile waiting time (minutes),2021–22,118.0
+Vic,Proportion seen on time (%),2021–22,63.3933
+Qld,Median waiting time (minutes),2021–22,18.0
+Qld,90th percentile waiting time (minutes),2021–22,93.0
+Qld,Proportion seen on time (%),2021–22,68.3362
+WA,Median waiting time (minutes),2021–22,40.0
+WA,90th percentile waiting time (minutes),2021–22,170.0
+WA,Proportion seen on time (%),2021–22,50.2515
+SA,Median waiting time (minutes),2021–22,26.0
+SA,90th percentile waiting time (minutes),2021–22,165.0
+SA,Proportion seen on time (%),2021–22,55.2778
+Tas,Median waiting time (minutes),2021–22,31.0
+Tas,90th percentile waiting time (minutes),2021–22,143.0
+Tas,Proportion seen on time (%),2021–22,53.4351
+ACT,Median waiting time (minutes),2021–22,47.0
+ACT,90th percentile waiting time (minutes),2021–22,203.0
+ACT,Proportion seen on time (%),2021–22,48.2545
+NT,Median waiting time (minutes),2021–22,29.0
+NT,90th percentile waiting time (minutes),2021–22,134.0
+NT,Proportion seen on time (%),2021–22,57.173
+NSW,Median waiting time (minutes),2022–23,15.0
+NSW,90th percentile waiting time (minutes),2022–23,100.0
+NSW,Proportion seen on time (%),2022–23,74.023
+Vic,Median waiting time (minutes),2022–23,20.0
+Vic,90th percentile waiting time (minutes),2022–23,114.0
+Vic,Proportion seen on time (%),2022–23,65.1377
+Qld,Median waiting time (minutes),2022–23,18.0
+Qld,90th percentile waiting time (minutes),2022–23,91.0
+Qld,Proportion seen on time (%),2022–23,67.1271
+WA,Median waiting time (minutes),2022–23,41.0
+WA,90th percentile waiting time (minutes),2022–23,191.0
+WA,Proportion seen on time (%),2022–23,48.4571
+SA,Median waiting time (minutes),2022–23,32.0
+SA,90th percentile waiting time (minutes),2022–23,212.0
+SA,Proportion seen on time (%),2022–23,49.7839
+Tas,Median waiting time (minutes),2022–23,30.0
+Tas,90th percentile waiting time (minutes),2022–23,143.0
+Tas,Proportion seen on time (%),2022–23,52.2968
+ACT,Median waiting time (minutes),2022–23,36.0
+ACT,90th percentile waiting time (minutes),2022–23,191.0
+ACT,Proportion seen on time (%),2022–23,50.9122
+NT,Median waiting time (minutes),2022–23,38.0
+NT,90th percentile waiting time (minutes),2022–23,161.0
+NT,Proportion seen on time (%),2022–23,49.983
+NSW,Median waiting time (minutes),2023–24,15.0
+NSW,90th percentile waiting time (minutes),2023–24,98.0
+NSW,Proportion seen on time (%),2023–24,74.3605
+Vic,Median waiting time (minutes),2023–24,16.0
+Vic,90th percentile waiting time (minutes),2023–24,94.0
+Vic,Proportion seen on time (%),2023–24,71.009
+Qld,Median waiting time (minutes),2023–24,16.0
+Qld,90th percentile waiting time (minutes),2023–24,84.0
+Qld,Proportion seen on time (%),2023–24,70.0028
+WA,Median waiting time (minutes),2023–24,42.0
+WA,90th percentile waiting time (minutes),2023–24,194.0
+WA,Proportion seen on time (%),2023–24,48.014
+SA,Median waiting time (minutes),2023–24,33.0
+SA,90th percentile waiting time (minutes),2023–24,197.0
+SA,Proportion seen on time (%),2023–24,49.0873
+Tas,Median waiting time (minutes),2023–24,31.0
+Tas,90th percentile waiting time (minutes),2023–24,149.0
+Tas,Proportion seen on time (%),2023–24,50.9783
+ACT,Median waiting time (minutes),2023–24,25.0
+ACT,90th percentile waiting time (minutes),2023–24,124.0
+ACT,Proportion seen on time (%),2023–24,61.6651
+NT,Median waiting time (minutes),2023–24,42.0
+NT,90th percentile waiting time (minutes),2023–24,187.0
+NT,Proportion seen on time (%),2023–24,47.3225
+NSW,Median waiting time (minutes),2024–25,15.0
+NSW,90th percentile waiting time (minutes),2024–25,104.0
+NSW,Proportion seen on time (%),2024–25,73.2518
+Vic,Median waiting time (minutes),2024–25,15.0
+Vic,90th percentile waiting time (minutes),2024–25,91.0
+Vic,Proportion seen on time (%),2024–25,71.5328
+Qld,Median waiting time (minutes),2024–25,15.0
+Qld,90th percentile waiting time (minutes),2024–25,78.0
+Qld,Proportion seen on time (%),2024–25,72.4388
+WA,Median waiting time (minutes),2024–25,44.0
+WA,90th percentile waiting time (minutes),2024–25,229.0
+WA,Proportion seen on time (%),2024–25,45.5782
+SA,Median waiting time (minutes),2024–25,29.0
+SA,90th percentile waiting time (minutes),2024–25,160.0
+SA,Proportion seen on time (%),2024–25,53.4049
+Tas,Median waiting time (minutes),2024–25,35.0
+Tas,90th percentile waiting time (minutes),2024–25,179.0
+Tas,Proportion seen on time (%),2024–25,46.0197
+ACT,Median waiting time (minutes),2024–25,25.0
+ACT,90th percentile waiting time (minutes),2024–25,106.0
+ACT,Proportion seen on time (%),2024–25,61.6724
+NT,Median waiting time (minutes),2024–25,37.0
+NT,90th percentile waiting time (minutes),2024–25,176.0
+NT,Proportion seen on time (%),2024–25,48.188

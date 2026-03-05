@@ -1,0 +1,241 @@
+peer_group,triage_category,state,value
+Principal referral and womens and children's hospitals,Resuscitation,NSW,99.9548
+Principal referral and womens and children's hospitals,Emergency,NSW,74.9598
+Principal referral and womens and children's hospitals,Urgent,NSW,67.904
+Principal referral and womens and children's hospitals,Semi-urgent,NSW,73.1714
+Principal referral and womens and children's hospitals,Non-urgent,NSW,86.9421
+Public acute group A hospitals,Resuscitation,NSW,99.9675
+Public acute group A hospitals,Emergency,NSW,73.7796
+Public acute group A hospitals,Urgent,NSW,60.0246
+Public acute group A hospitals,Semi-urgent,NSW,67.0635
+Public acute group A hospitals,Non-urgent,NSW,85.4447
+Public acute group B hospitals,Resuscitation,NSW,99.96
+Public acute group B hospitals,Emergency,NSW,76.2646
+Public acute group B hospitals,Urgent,NSW,71.6857
+Public acute group B hospitals,Semi-urgent,NSW,73.9467
+Public acute group B hospitals,Non-urgent,NSW,88.7823
+Public acute group C hospitals,Resuscitation,NSW,99.7623
+Public acute group C hospitals,Emergency,NSW,82.5362
+Public acute group C hospitals,Urgent,NSW,80.9371
+Public acute group C hospitals,Semi-urgent,NSW,82.6513
+Public acute group C hospitals,Non-urgent,NSW,93.7787
+Other hospitals,Resuscitation,NSW,100.0
+Other hospitals,Emergency,NSW,83.6672
+Other hospitals,Urgent,NSW,88.1523
+Other hospitals,Semi-urgent,NSW,89.6812
+Other hospitals,Non-urgent,NSW,97.5413
+All hospitals,Resuscitation,NSW,99.9512
+All hospitals,Emergency,NSW,75.6227
+All hospitals,Urgent,NSW,67.8571
+All hospitals,Semi-urgent,NSW,74.1231
+All hospitals,Non-urgent,NSW,90.1395
+Principal referral and womens and children's hospitals,Resuscitation,Vic,100.0
+Principal referral and womens and children's hospitals,Emergency,Vic,64.277
+Principal referral and womens and children's hospitals,Urgent,Vic,72.3761
+Principal referral and womens and children's hospitals,Semi-urgent,Vic,73.4373
+Principal referral and womens and children's hospitals,Non-urgent,Vic,88.5196
+Public acute group A hospitals,Resuscitation,Vic,100.0
+Public acute group A hospitals,Emergency,Vic,63.7937
+Public acute group A hospitals,Urgent,Vic,65.8947
+Public acute group A hospitals,Semi-urgent,Vic,74.949
+Public acute group A hospitals,Non-urgent,Vic,90.2398
+Public acute group B hospitals,Resuscitation,Vic,100.0
+Public acute group B hospitals,Emergency,Vic,58.5693
+Public acute group B hospitals,Urgent,Vic,70.784
+Public acute group B hospitals,Semi-urgent,Vic,78.4459
+Public acute group B hospitals,Non-urgent,Vic,93.2116
+Public acute group C hospitals,Resuscitation,Vic,100.0
+Public acute group C hospitals,Emergency,Vic,70.6906
+Public acute group C hospitals,Urgent,Vic,71.8964
+Public acute group C hospitals,Semi-urgent,Vic,78.8372
+Public acute group C hospitals,Non-urgent,Vic,89.6472
+Other hospitals,Resuscitation,Vic,100.0
+Other hospitals,Emergency,Vic,85.9486
+Other hospitals,Urgent,Vic,77.5346
+Other hospitals,Semi-urgent,Vic,83.5321
+Other hospitals,Non-urgent,Vic,96.5116
+All hospitals,Resuscitation,Vic,100.0
+All hospitals,Emergency,Vic,63.9682
+All hospitals,Urgent,Vic,69.1766
+All hospitals,Semi-urgent,Vic,75.7456
+All hospitals,Non-urgent,Vic,90.6623
+Principal referral and womens and children's hospitals,Resuscitation,Qld,99.9595
+Principal referral and womens and children's hospitals,Emergency,Qld,74.9079
+Principal referral and womens and children's hospitals,Urgent,Qld,67.5799
+Principal referral and womens and children's hospitals,Semi-urgent,Qld,76.8113
+Principal referral and womens and children's hospitals,Non-urgent,Qld,91.6651
+Public acute group A hospitals,Resuscitation,Qld,99.9725
+Public acute group A hospitals,Emergency,Qld,71.171
+Public acute group A hospitals,Urgent,Qld,64.2176
+Public acute group A hospitals,Semi-urgent,Qld,77.0172
+Public acute group A hospitals,Non-urgent,Qld,92.8014
+Public acute group B hospitals,Resuscitation,Qld,99.9021
+Public acute group B hospitals,Emergency,Qld,74.3184
+Public acute group B hospitals,Urgent,Qld,73.7833
+Public acute group B hospitals,Semi-urgent,Qld,80.6796
+Public acute group B hospitals,Non-urgent,Qld,94.6537
+Public acute group C hospitals,Resuscitation,Qld,. .
+Public acute group C hospitals,Emergency,Qld,. .
+Public acute group C hospitals,Urgent,Qld,. .
+Public acute group C hospitals,Semi-urgent,Qld,. .
+Public acute group C hospitals,Non-urgent,Qld,. .
+Other hospitals,Resuscitation,Qld,. .
+Other hospitals,Emergency,Qld,. .
+Other hospitals,Urgent,Qld,. .
+Other hospitals,Semi-urgent,Qld,. .
+Other hospitals,Non-urgent,Qld,. .
+All hospitals,Resuscitation,Qld,99.9584
+All hospitals,Emergency,Qld,73.0111
+All hospitals,Urgent,Qld,67.2104
+All hospitals,Semi-urgent,Qld,77.6974
+All hospitals,Non-urgent,Qld,92.6397
+Principal referral and womens and children's hospitals,Resuscitation,WA,100
+Principal referral and womens and children's hospitals,Emergency,WA,63.2382
+Principal referral and womens and children's hospitals,Urgent,WA,21.7646
+Principal referral and womens and children's hospitals,Semi-urgent,WA,37.1478
+Principal referral and womens and children's hospitals,Non-urgent,WA,64.2091
+Public acute group A hospitals,Resuscitation,WA,99.9242
+Public acute group A hospitals,Emergency,WA,64.1013
+Public acute group A hospitals,Urgent,WA,11.136
+Public acute group A hospitals,Semi-urgent,WA,25.8887
+Public acute group A hospitals,Non-urgent,WA,61.8746
+Public acute group B hospitals,Resuscitation,WA,99.1906
+Public acute group B hospitals,Emergency,WA,71.4708
+Public acute group B hospitals,Urgent,WA,47.8102
+Public acute group B hospitals,Semi-urgent,WA,57.9975
+Public acute group B hospitals,Non-urgent,WA,83.6795
+Public acute group C hospitals,Resuscitation,WA,99.4969
+Public acute group C hospitals,Emergency,WA,79.1092
+Public acute group C hospitals,Urgent,WA,70.4317
+Public acute group C hospitals,Semi-urgent,WA,73.7611
+Public acute group C hospitals,Non-urgent,WA,90.7853
+Other hospitals,Resuscitation,WA,. .
+Other hospitals,Emergency,WA,. .
+Other hospitals,Urgent,WA,. .
+Other hospitals,Semi-urgent,WA,. .
+Other hospitals,Non-urgent,WA,. .
+All hospitals,Resuscitation,WA,99.8387
+All hospitals,Emergency,WA,66.5659
+All hospitals,Urgent,WA,29.4146
+All hospitals,Semi-urgent,WA,46.9861
+All hospitals,Non-urgent,WA,80.4318
+Principal referral and womens and children's hospitals,Resuscitation,SA,98.5025
+Principal referral and womens and children's hospitals,Emergency,SA,49.6451
+Principal referral and womens and children's hospitals,Urgent,SA,35.8249
+Principal referral and womens and children's hospitals,Semi-urgent,SA,54.1114
+Principal referral and womens and children's hospitals,Non-urgent,SA,77.8728
+Public acute group A hospitals,Resuscitation,SA,99.9588
+Public acute group A hospitals,Emergency,SA,35.5288
+Public acute group A hospitals,Urgent,SA,33.6149
+Public acute group A hospitals,Semi-urgent,SA,52.5472
+Public acute group A hospitals,Non-urgent,SA,79.1522
+Public acute group B hospitals,Resuscitation,SA,97.2274
+Public acute group B hospitals,Emergency,SA,72.4988
+Public acute group B hospitals,Urgent,SA,57.812
+Public acute group B hospitals,Semi-urgent,SA,66.7448
+Public acute group B hospitals,Non-urgent,SA,89.1915
+Public acute group C hospitals,Resuscitation,SA,99.4528
+Public acute group C hospitals,Emergency,SA,59.1007
+Public acute group C hospitals,Urgent,SA,59.2465
+Public acute group C hospitals,Semi-urgent,SA,71.809
+Public acute group C hospitals,Non-urgent,SA,89.6098
+Other hospitals,Resuscitation,SA,. .
+Other hospitals,Emergency,SA,. .
+Other hospitals,Urgent,SA,. .
+Other hospitals,Semi-urgent,SA,. .
+Other hospitals,Non-urgent,SA,. .
+All hospitals,Resuscitation,SA,98.9319
+All hospitals,Emergency,SA,50.1697
+All hospitals,Urgent,SA,43.66
+All hospitals,Semi-urgent,SA,61.4072
+All hospitals,Non-urgent,SA,84.3354
+Principal referral and womens and children's hospitals,Resuscitation,Tas,99.537
+Principal referral and womens and children's hospitals,Emergency,Tas,39.0862
+Principal referral and womens and children's hospitals,Urgent,Tas,27.6252
+Principal referral and womens and children's hospitals,Semi-urgent,Tas,37.2238
+Principal referral and womens and children's hospitals,Non-urgent,Tas,64.5833
+Public acute group A hospitals,Resuscitation,Tas,99.5798
+Public acute group A hospitals,Emergency,Tas,50.4754
+Public acute group A hospitals,Urgent,Tas,36.6303
+Public acute group A hospitals,Semi-urgent,Tas,50.0274
+Public acute group A hospitals,Non-urgent,Tas,80.7671
+Public acute group B hospitals,Resuscitation,Tas,n.p.
+Public acute group B hospitals,Emergency,Tas,74.369
+Public acute group B hospitals,Urgent,Tas,75.0731
+Public acute group B hospitals,Semi-urgent,Tas,75.9941
+Public acute group B hospitals,Non-urgent,Tas,91.2343
+Public acute group C hospitals,Resuscitation,Tas,. .
+Public acute group C hospitals,Emergency,Tas,. .
+Public acute group C hospitals,Urgent,Tas,. .
+Public acute group C hospitals,Semi-urgent,Tas,. .
+Public acute group C hospitals,Non-urgent,Tas,. .
+Other hospitals,Resuscitation,Tas,. .
+Other hospitals,Emergency,Tas,. .
+Other hospitals,Urgent,Tas,. .
+Other hospitals,Semi-urgent,Tas,. .
+Other hospitals,Non-urgent,Tas,. .
+All hospitals,Resuscitation,Tas,99.5763
+All hospitals,Emergency,Tas,46.8936
+All hospitals,Urgent,Tas,37.7792
+All hospitals,Semi-urgent,Tas,52.3496
+All hospitals,Non-urgent,Tas,74.2923
+Principal referral and womens and children's hospitals,Resuscitation,ACT,99.115
+Principal referral and womens and children's hospitals,Emergency,ACT,62.7306
+Principal referral and womens and children's hospitals,Urgent,ACT,47.9112
+Principal referral and womens and children's hospitals,Semi-urgent,ACT,64.3585
+Principal referral and womens and children's hospitals,Non-urgent,ACT,87.0656
+Public acute group A hospitals,Resuscitation,ACT,98.7234
+Public acute group A hospitals,Emergency,ACT,68.2772
+Public acute group A hospitals,Urgent,ACT,56.5701
+Public acute group A hospitals,Semi-urgent,ACT,74.7388
+Public acute group A hospitals,Non-urgent,ACT,91.265
+Public acute group B hospitals,Resuscitation,ACT,. .
+Public acute group B hospitals,Emergency,ACT,. .
+Public acute group B hospitals,Urgent,ACT,. .
+Public acute group B hospitals,Semi-urgent,ACT,. .
+Public acute group B hospitals,Non-urgent,ACT,. .
+Public acute group C hospitals,Resuscitation,ACT,. .
+Public acute group C hospitals,Emergency,ACT,. .
+Public acute group C hospitals,Urgent,ACT,. .
+Public acute group C hospitals,Semi-urgent,ACT,. .
+Public acute group C hospitals,Non-urgent,ACT,. .
+Other hospitals,Resuscitation,ACT,. .
+Other hospitals,Emergency,ACT,. .
+Other hospitals,Urgent,ACT,. .
+Other hospitals,Semi-urgent,ACT,. .
+Other hospitals,Non-urgent,ACT,. .
+All hospitals,Resuscitation,ACT,99.0253
+All hospitals,Emergency,ACT,64.4283
+All hospitals,Urgent,ACT,51.2261
+All hospitals,Semi-urgent,ACT,68.5805
+All hospitals,Non-urgent,ACT,88.7337
+Principal referral and womens and children's hospitals,Resuscitation,NT,100
+Principal referral and womens and children's hospitals,Emergency,NT,36.512
+Principal referral and womens and children's hospitals,Urgent,NT,18.0986
+Principal referral and womens and children's hospitals,Semi-urgent,NT,33.1376
+Principal referral and womens and children's hospitals,Non-urgent,NT,64.667
+Public acute group A hospitals,Resuscitation,NT,100
+Public acute group A hospitals,Emergency,NT,69.0614
+Public acute group A hospitals,Urgent,NT,63.2142
+Public acute group A hospitals,Semi-urgent,NT,57.2527
+Public acute group A hospitals,Non-urgent,NT,92.1492
+Public acute group B hospitals,Resuscitation,NT,. .
+Public acute group B hospitals,Emergency,NT,. .
+Public acute group B hospitals,Urgent,NT,. .
+Public acute group B hospitals,Semi-urgent,NT,. .
+Public acute group B hospitals,Non-urgent,NT,. .
+Public acute group C hospitals,Resuscitation,NT,91.8421
+Public acute group C hospitals,Emergency,NT,52.499
+Public acute group C hospitals,Urgent,NT,45.4794
+Public acute group C hospitals,Semi-urgent,NT,54.3907
+Public acute group C hospitals,Non-urgent,NT,83.9807
+Other hospitals,Resuscitation,NT,. .
+Other hospitals,Emergency,NT,. .
+Other hospitals,Urgent,NT,. .
+Other hospitals,Semi-urgent,NT,. .
+Other hospitals,Non-urgent,NT,. .
+All hospitals,Resuscitation,NT,98.4168
+All hospitals,Emergency,NT,49.1614
+All hospitals,Urgent,NT,40.0083
+All hospitals,Semi-urgent,NT,47.9467
+All hospitals,Non-urgent,NT,82.2797

@@ -1,0 +1,14 @@
+# Python / Jupyter
+health_env/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$*
+
+# Data - Ignoring large master files but keeping filtered and processed data
+data/master_files/
+~$*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db

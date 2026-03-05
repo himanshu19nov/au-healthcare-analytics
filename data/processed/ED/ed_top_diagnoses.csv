@@ -1,0 +1,177 @@
+principal_diagnosis,state,value
+R10  Abdominal and pelvic pain,NSW,155163.0
+R07  Pain in throat and chest,NSW,142661.0
+R69  Unknown and unspecified causes of morbidity,NSW,182306.0
+T14  Injury of unspecified body region,NSW,93369.0
+M54  Dorsalgia,NSW,58542.0
+L03  Cellulitis,NSW,51024.0
+B34  Viral infection of unspecified site,NSW,36406.0
+"M79  Other soft tissue disorders, not elsewhere classified",NSW,74562.0
+R06  Abnormalities of breathing,NSW,43585.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,NSW,38695.0
+S61  Open wound of wrist and hand,NSW,40117.0
+S09  Other and unspecified injuries of head,NSW,44821.0
+N39  Other disorders of urinary system,NSW,39769.0
+R11  Nausea and vomiting,NSW,38658.0
+"M25  Other joint disorders, not elsewhere classified",NSW,23943.0
+R55  Syncope and collapse,NSW,34590.0
+R45  Symptoms and signs involving emotional state,NSW,28577.0
+S01  Open wound of head,NSW,32929.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,NSW,41148.0
+"J18  Pneumonia, organism unspecified",NSW,35824.0
+Other,NSW,1884622.0
+Missing/Not reported,NSW,39162.0
+R10  Abdominal and pelvic pain,Vic,110782.0
+R07  Pain in throat and chest,Vic,108508.0
+R69  Unknown and unspecified causes of morbidity,Vic,50310.0
+T14  Injury of unspecified body region,Vic,6905.0
+M54  Dorsalgia,Vic,37550.0
+L03  Cellulitis,Vic,23523.0
+B34  Viral infection of unspecified site,Vic,30950.0
+"M79  Other soft tissue disorders, not elsewhere classified",Vic,21942.0
+R06  Abnormalities of breathing,Vic,26300.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,Vic,28962.0
+S61  Open wound of wrist and hand,Vic,22840.0
+S09  Other and unspecified injuries of head,Vic,13815.0
+N39  Other disorders of urinary system,Vic,19640.0
+R11  Nausea and vomiting,Vic,21960.0
+"M25  Other joint disorders, not elsewhere classified",Vic,30682.0
+R55  Syncope and collapse,Vic,23931.0
+R45  Symptoms and signs involving emotional state,Vic,20788.0
+S01  Open wound of head,Vic,20293.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,Vic,17781.0
+"J18  Pneumonia, organism unspecified",Vic,15492.0
+Other,Vic,1231723.0
+Missing/Not reported,Vic,93590.0
+R10  Abdominal and pelvic pain,Qld,83426.0
+R07  Pain in throat and chest,Qld,85241.0
+R69  Unknown and unspecified causes of morbidity,Qld,7403.0
+T14  Injury of unspecified body region,Qld,31766.0
+M54  Dorsalgia,Qld,30648.0
+L03  Cellulitis,Qld,27780.0
+B34  Viral infection of unspecified site,Qld,28552.0
+"M79  Other soft tissue disorders, not elsewhere classified",Qld,22291.0
+R06  Abnormalities of breathing,Qld,21305.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,Qld,22819.0
+S61  Open wound of wrist and hand,Qld,17461.0
+S09  Other and unspecified injuries of head,Qld,27681.0
+N39  Other disorders of urinary system,Qld,21569.0
+R11  Nausea and vomiting,Qld,20501.0
+"M25  Other joint disorders, not elsewhere classified",Qld,19566.0
+R55  Syncope and collapse,Qld,19881.0
+R45  Symptoms and signs involving emotional state,Qld,26289.0
+S01  Open wound of head,Qld,17103.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,Qld,15338.0
+"J18  Pneumonia, organism unspecified",Qld,20395.0
+Other,Qld,1088983.0
+Missing/Not reported,Qld,110841.0
+R10  Abdominal and pelvic pain,WA,37360.0
+R07  Pain in throat and chest,WA,40933.0
+R69  Unknown and unspecified causes of morbidity,WA,1410.0
+T14  Injury of unspecified body region,WA,12054.0
+M54  Dorsalgia,WA,12519.0
+L03  Cellulitis,WA,19824.0
+B34  Viral infection of unspecified site,WA,26245.0
+"M79  Other soft tissue disorders, not elsewhere classified",WA,5653.0
+R06  Abnormalities of breathing,WA,9207.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,WA,5071.0
+S61  Open wound of wrist and hand,WA,13065.0
+S09  Other and unspecified injuries of head,WA,2894.0
+N39  Other disorders of urinary system,WA,11005.0
+R11  Nausea and vomiting,WA,8334.0
+"M25  Other joint disorders, not elsewhere classified",WA,6907.0
+R55  Syncope and collapse,WA,9629.0
+R45  Symptoms and signs involving emotional state,WA,9074.0
+S01  Open wound of head,WA,16625.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,WA,9709.0
+"J18  Pneumonia, organism unspecified",WA,10056.0
+Other,WA,684723.0
+Missing/Not reported,WA,74720.0
+R10  Abdominal and pelvic pain,SA,27294.0
+R07  Pain in throat and chest,SA,25766.0
+R69  Unknown and unspecified causes of morbidity,SA,49778.0
+T14  Injury of unspecified body region,SA,17128.0
+M54  Dorsalgia,SA,9504.0
+L03  Cellulitis,SA,7901.0
+B34  Viral infection of unspecified site,SA,5674.0
+"M79  Other soft tissue disorders, not elsewhere classified",SA,3295.0
+R06  Abnormalities of breathing,SA,7562.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,SA,9068.0
+S61  Open wound of wrist and hand,SA,8750.0
+S09  Other and unspecified injuries of head,SA,10441.0
+N39  Other disorders of urinary system,SA,6578.0
+R11  Nausea and vomiting,SA,7579.0
+"M25  Other joint disorders, not elsewhere classified",SA,7497.0
+R55  Syncope and collapse,SA,6577.0
+R45  Symptoms and signs involving emotional state,SA,9773.0
+S01  Open wound of head,SA,7110.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,SA,8123.0
+"J18  Pneumonia, organism unspecified",SA,10806.0
+Other,SA,376659.0
+Missing/Not reported,SA,13.0
+R10  Abdominal and pelvic pain,Tas,8412.0
+R07  Pain in throat and chest,Tas,10107.0
+R69  Unknown and unspecified causes of morbidity,Tas,8431.0
+T14  Injury of unspecified body region,Tas,106.0
+M54  Dorsalgia,Tas,4187.0
+L03  Cellulitis,Tas,2507.0
+B34  Viral infection of unspecified site,Tas,2432.0
+"M79  Other soft tissue disorders, not elsewhere classified",Tas,1482.0
+R06  Abnormalities of breathing,Tas,1279.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,Tas,1599.0
+S61  Open wound of wrist and hand,Tas,2571.0
+S09  Other and unspecified injuries of head,Tas,999.0
+N39  Other disorders of urinary system,Tas,2197.0
+R11  Nausea and vomiting,Tas,1881.0
+"M25  Other joint disorders, not elsewhere classified",Tas,460.0
+R55  Syncope and collapse,Tas,2374.0
+R45  Symptoms and signs involving emotional state,Tas,1724.0
+S01  Open wound of head,Tas,1636.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,Tas,1919.0
+"J18  Pneumonia, organism unspecified",Tas,1233.0
+Other,Tas,125512.0
+Missing/Not reported,Tas,72.0
+R10  Abdominal and pelvic pain,ACT,10123.0
+R07  Pain in throat and chest,ACT,9184.0
+R69  Unknown and unspecified causes of morbidity,ACT,1176.0
+T14  Injury of unspecified body region,ACT,1276.0
+M54  Dorsalgia,ACT,4040.0
+L03  Cellulitis,ACT,2156.0
+B34  Viral infection of unspecified site,ACT,2800.0
+"M79  Other soft tissue disorders, not elsewhere classified",ACT,1397.0
+R06  Abnormalities of breathing,ACT,2180.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,ACT,3105.0
+S61  Open wound of wrist and hand,ACT,1876.0
+S09  Other and unspecified injuries of head,ACT,4517.0
+N39  Other disorders of urinary system,ACT,1947.0
+R11  Nausea and vomiting,ACT,2447.0
+"M25  Other joint disorders, not elsewhere classified",ACT,4592.0
+R55  Syncope and collapse,ACT,1719.0
+R45  Symptoms and signs involving emotional state,ACT,2305.0
+S01  Open wound of head,ACT,1585.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,ACT,1506.0
+"J18  Pneumonia, organism unspecified",ACT,2624.0
+Other,ACT,101059.0
+Missing/Not reported,ACT,3989.0
+R10  Abdominal and pelvic pain,NT,6518.0
+R07  Pain in throat and chest,NT,7794.0
+R69  Unknown and unspecified causes of morbidity,NT,396.0
+T14  Injury of unspecified body region,NT,2373.0
+M54  Dorsalgia,NT,2914.0
+L03  Cellulitis,NT,5689.0
+B34  Viral infection of unspecified site,NT,2802.0
+"M79  Other soft tissue disorders, not elsewhere classified",NT,681.0
+R06  Abnormalities of breathing,NT,1629.0
+A09  Other gastroenteritis and colitis of infectious and unspecified origin,NT,988.0
+S61  Open wound of wrist and hand,NT,1747.0
+S09  Other and unspecified injuries of head,NT,1486.0
+N39  Other disorders of urinary system,NT,1979.0
+R11  Nausea and vomiting,NT,1548.0
+"M25  Other joint disorders, not elsewhere classified",NT,6346.0
+R55  Syncope and collapse,NT,1092.0
+R45  Symptoms and signs involving emotional state,NT,1250.0
+S01  Open wound of head,NT,2373.0
+J06  Acute upper respiratory infections of multiple and unspecified sites,NT,2424.0
+"J18  Pneumonia, organism unspecified",NT,863.0
+Other,NT,118462.0
+Missing/Not reported,NT,16763.0
