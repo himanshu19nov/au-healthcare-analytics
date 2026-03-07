@@ -1,0 +1,49 @@
+clinical_urgency,metric,state,value
+Category 1,Admissions,NSW,52066.0
+Category 2,Admissions,NSW,90168.0
+Category 3,Admissions,NSW,90615.0
+Category 1,Per cent of admissions,NSW,22.3604
+Category 2,Per cent of admissions,NSW,38.7238
+Category 3,Per cent of admissions,NSW,38.9158
+Category 1,Admissions,Vic,73516.0
+Category 2,Admissions,Vic,89984.0
+Category 3,Admissions,Vic,48461.0
+Category 1,Per cent of admissions,Vic,34.6837
+Category 2,Per cent of admissions,Vic,42.4531
+Category 3,Per cent of admissions,Vic,22.8632
+Category 1,Admissions,Qld,61806.0
+Category 2,Admissions,Qld,57371.0
+Category 3,Admissions,Qld,30018.0
+Category 1,Per cent of admissions,Qld,41.4263
+Category 2,Per cent of admissions,Qld,38.4537
+Category 3,Per cent of admissions,Qld,20.12
+Category 1,Admissions,WA,28208.0
+Category 2,Admissions,WA,30495.0
+Category 3,Admissions,WA,30911.0
+Category 1,Per cent of admissions,WA,31.4772
+Category 2,Per cent of admissions,WA,34.0293
+Category 3,Per cent of admissions,WA,34.4935
+Category 1,Admissions,SA,20150.0
+Category 2,Admissions,SA,24473.0
+Category 3,Admissions,SA,16796.0
+Category 1,Per cent of admissions,SA,32.8074
+Category 2,Per cent of admissions,SA,39.846
+Category 3,Per cent of admissions,SA,27.3466
+Category 1,Admissions,Tas,9858.0
+Category 2,Admissions,Tas,7981.0
+Category 3,Admissions,Tas,4680.0
+Category 1,Per cent of admissions,Tas,43.7764
+Category 2,Per cent of admissions,Tas,35.4412
+Category 3,Per cent of admissions,Tas,20.7825
+Category 1,Admissions,ACT,6926.0
+Category 2,Admissions,ACT,5149.0
+Category 3,Admissions,ACT,4490.0
+Category 1,Per cent of admissions,ACT,41.811
+Category 2,Per cent of admissions,ACT,31.0836
+Category 3,Per cent of admissions,ACT,27.1053
+Category 1,Admissions,NT,2729.0
+Category 2,Admissions,NT,2526.0
+Category 3,Admissions,NT,1151.0
+Category 1,Per cent of admissions,NT,42.6007
+Category 2,Per cent of admissions,NT,39.4318
+Category 3,Per cent of admissions,NT,17.9675

@@ -1,0 +1,81 @@
+state,metric,year,value
+ACT,Admissions,2020–21,15348.0
+ACT,Admissions,2021–22,14033.0
+ACT,Admissions,2022–23,12640.0
+ACT,Admissions,2023–24,14979.0
+ACT,Admissions,2024–25(b),16565.0
+ACT,"Admissions per 1,000 population",2020–21,34.4974073
+ACT,"Admissions per 1,000 population",2021–22,31.011606425
+ACT,"Admissions per 1,000 population",2022–23,27.403081112
+ACT,"Admissions per 1,000 population",2023–24,31.779607078
+ACT,"Admissions per 1,000 population",2024–25(b),34.615706106
+NSW,Admissions,2020–21,251001.0
+NSW,Admissions,2021–22,182808.0
+NSW,Admissions,2022–23,225749.0
+NSW,Admissions,2023–24,231804.0
+NSW,Admissions,2024–25(b),232849.0
+NSW,"Admissions per 1,000 population",2020–21,30.947240713
+NSW,"Admissions per 1,000 population",2021–22,22.577077957
+NSW,"Admissions per 1,000 population",2022–23,27.590600846
+NSW,"Admissions per 1,000 population",2023–24,27.739739675
+NSW,"Admissions per 1,000 population",2024–25(b),27.416772048
+NT,Admissions,2020–21,7746.0
+NT,Admissions,2021–22,6712.0
+NT,Admissions,2022–23,7170.0
+NT,Admissions,2023–24,6915.0
+NT,Admissions,2024–25(b),6406.0
+NT,"Admissions per 1,000 population",2020–21,31.306076919
+NT,"Admissions per 1,000 population",2021–22,27.048047358
+NT,"Admissions per 1,000 population",2022–23,28.328723825
+NT,"Admissions per 1,000 population",2023–24,26.853534647
+NT,"Admissions per 1,000 population",2024–25(b),24.5591167
+Qld,Admissions,2020–21,148272.0
+Qld,Admissions,2021–22,127599.0
+Qld,Admissions,2022–23,140977.0
+Qld,Admissions,2023–24,149420.0
+Qld,Admissions,2024–25(b),149195.0
+Qld,"Admissions per 1,000 population",2020–21,28.703660146
+Qld,"Admissions per 1,000 population",2021–22,24.463870836
+Qld,"Admissions per 1,000 population",2022–23,26.54481675
+Qld,"Admissions per 1,000 population",2023–24,27.415331632
+Qld,"Admissions per 1,000 population",2024–25(b),26.77788116
+SA,Admissions,2020–21,57355.0
+SA,Admissions,2021–22,52742.0
+SA,Admissions,2022–23,55900.0
+SA,Admissions,2023–24,56484.0
+SA,Admissions,2024–25(b),61419.0
+SA,"Admissions per 1,000 population",2020–21,32.035546023
+SA,"Admissions per 1,000 population",2021–22,29.258832099
+SA,"Admissions per 1,000 population",2022–23,30.630657288
+SA,"Admissions per 1,000 population",2023–24,30.406223791
+SA,"Admissions per 1,000 population",2024–25(b),32.624371153
+Tas,Admissions,2020–21,18313.0
+Tas,Admissions,2021–22,20314.0
+Tas,Admissions,2022–23,21364.0
+Tas,Admissions,2023–24,22196.0
+Tas,Admissions,2024–25(b),22519.0
+Tas,"Admissions per 1,000 population",2020–21,32.843835302
+Tas,"Admissions per 1,000 population",2021–22,35.812065108
+Tas,"Admissions per 1,000 population",2022–23,37.330071641
+Tas,"Admissions per 1,000 population",2023–24,38.687119922
+Tas,"Admissions per 1,000 population",2024–25(b),39.178536446
+Vic,Admissions,2020–21,164155.0
+Vic,Admissions,2021–22,147792.0
+Vic,Admissions,2022–23,190867.0
+Vic,Admissions,2023–24,210677.0
+Vic,Admissions,2024–25(b),211961.0
+Vic,"Admissions per 1,000 population",2020–21,24.815398109
+Vic,"Admissions per 1,000 population",2021–22,22.571169467
+Vic,"Admissions per 1,000 population",2022–23,28.852653996
+Vic,"Admissions per 1,000 population",2023–24,30.994815636
+Vic,"Admissions per 1,000 population",2024–25(b),30.483783239
+WA,Admissions,2020–21,92410.0
+WA,Admissions,2021–22,70988.0
+WA,Admissions,2022–23,80793.0
+WA,Admissions,2023–24,85991.0
+WA,Admissions,2024–25(b),89614.0
+WA,"Admissions per 1,000 population",2020–21,34.063028952
+WA,"Admissions per 1,000 population",2021–22,25.819780204
+WA,"Admissions per 1,000 population",2022–23,28.917290101
+WA,"Admissions per 1,000 population",2023–24,29.745037593
+WA,"Admissions per 1,000 population",2024–25(b),30.099184157
