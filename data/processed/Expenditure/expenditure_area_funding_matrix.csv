@@ -1,0 +1,148 @@
+Area of expenditure,funding_source,spending
+Hospitals,DVA,1153
+   Public hospital services,DVA,445
+   Private hospitals,DVA,708
+Primary health care,DVA,860
+   Unreferred medical services,DVA,134
+   Dental services,DVA,96
+   Other health practitioners,DVA,279
+   Community health and other,DVA,11
+   Public health,DVA,. .
+   Benefit-paid pharmaceuticals,DVA,340
+   All other medications,DVA,. .
+Referred medical services,DVA,713
+Other services,DVA,456
+   Patient transport services,DVA,126
+   Aids and appliances,DVA,157
+   Administration,DVA,173
+Research,DVA,5
+Total recurrent expenditure,DVA,3188
+Capital expenditure,DVA,. .
+Medical expenses tax rebate,DVA,. .
+Total health expenditure,DVA,3188
+Hospitals,Health and other,36221
+   Public hospital services,Health and other,32368
+   Private hospitals,Health and other,3854
+Primary health care,Health and other,35851
+   Unreferred medical services,Health and other,11316
+   Dental services,Health and other,500
+   Other health practitioners,Health and other,2505
+   Community health and other,Health and other,2118
+   Public health,Health and other,3370
+   Benefit-paid pharmaceuticals,Health and other,14221
+   All other medications,Health and other,1822
+Referred medical services,Health and other,14807
+Other services,Health and other,3171
+   Patient transport services,Health and other,115
+   Aids and appliances,Health and other,816
+   Administration,Health and other,2239
+Research,Health and other,5896
+Total recurrent expenditure,Health and other,95946
+Capital expenditure,Health and other,137
+Medical expenses tax rebate,Health and other,—
+Total health expenditure,Health and other,96083
+Hospitals,Premium rebates,3794
+   Public hospital services,Premium rebates,328
+   Private hospitals,Premium rebates,3466
+Primary health care,Premium rebates,1227
+   Unreferred medical services,Premium rebates,. .
+   Dental services,Premium rebates,860
+   Other health practitioners,Premium rebates,340
+   Community health and other,Premium rebates,1
+   Public health,Premium rebates,. .
+   Benefit-paid pharmaceuticals,Premium rebates,. .
+   All other medications,Premium rebates,26
+Referred medical services,Premium rebates,657
+Other services,Premium rebates,1246
+   Patient transport services,Premium rebates,121
+   Aids and appliances,Premium rebates,283
+   Administration,Premium rebates,842
+Research,Premium rebates,. .
+Total recurrent expenditure,Premium rebates,6924
+Capital expenditure,Premium rebates,. .
+Medical expenses tax rebate,Premium rebates,. .
+Total health expenditure,Premium rebates,6924
+Hospitals,State and local,53146
+   Public hospital services,State and local,52665
+   Private hospitals,State and local,481
+Primary health care,State and local,13637
+   Unreferred medical services,State and local,. .
+   Dental services,State and local,1058
+   Other health practitioners,State and local,16
+   Community health and other,State and local,10747
+   Public health,State and local,1816
+   Benefit-paid pharmaceuticals,State and local,. .
+   All other medications,State and local,. .
+Referred medical services,State and local,. .
+Other services,State and local,7004
+   Patient transport services,State and local,5080
+   Aids and appliances,State and local,. .
+   Administration,State and local,1924
+Research,State and local,1176
+Total recurrent expenditure,State and local,74964
+Capital expenditure,State and local,7004
+Medical expenses tax rebate,State and local,. .
+Total health expenditure,State and local,81968
+Hospitals,HIF,11497
+   Public hospital services,HIF,994
+   Private hospitals,HIF,10503
+Primary health care,HIF,3717
+   Unreferred medical services,HIF,. .
+   Dental services,HIF,2606
+   Other health practitioners,HIF,1030
+   Community health and other,HIF,2
+   Public health,HIF,. .
+   Benefit-paid pharmaceuticals,HIF,. .
+   All other medications,HIF,78
+Referred medical services,HIF,1991
+Other services,HIF,3776
+   Patient transport services,HIF,368
+   Aids and appliances,HIF,858
+   Administration,HIF,2551
+Research,HIF,. .
+Total recurrent expenditure,HIF,20981
+Capital expenditure,HIF,. .
+Medical expenses tax rebate,HIF,. .
+Total health expenditure,HIF,20981
+Hospitals,Individuals,3876
+   Public hospital services,Individuals,1464
+   Private hospitals,Individuals,2412
+Primary health care,Individuals,30680
+   Unreferred medical services,Individuals,1672
+   Dental services,Individuals,7986
+   Other health practitioners,Individuals,3542
+   Community health and other,Individuals,90
+   Public health,Individuals,28
+   Benefit-paid pharmaceuticals,Individuals,1601
+   All other medications,Individuals,15762
+Referred medical services,Individuals,5459
+Other services,Individuals,4032
+   Patient transport services,Individuals,558
+   Aids and appliances,Individuals,3458
+   Administration,Individuals,15
+Research,Individuals,2
+Total recurrent expenditure,Individuals,44050
+Capital expenditure,Individuals,. .
+Medical expenses tax rebate,Individuals,—
+Total health expenditure,Individuals,44050
+Hospitals,Other,4147
+   Public hospital services,Other,2536
+   Private hospitals,Other,1612
+Primary health care,Other,3164
+   Unreferred medical services,Other,1490
+   Dental services,Other,59
+   Other health practitioners,Other,926
+   Community health and other,Other,461
+   Public health,Other,110
+   Benefit-paid pharmaceuticals,Other,. .
+   All other medications,Other,119
+Referred medical services,Other,. .
+Other services,Other,350
+   Patient transport services,Other,161
+   Aids and appliances,Other,185
+   Administration,Other,4
+Research,Other,563
+Total recurrent expenditure,Other,8225
+Capital expenditure,Other,9068
+Medical expenses tax rebate,Other,. .
+Total health expenditure,Other,17292

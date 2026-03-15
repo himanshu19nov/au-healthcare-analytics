@@ -1,0 +1,121 @@
+================================================================================
+  AUSTRALIAN HEALTHCARE PERFORMANCE ANALYTICS PLATFORM
+  Project Overview
+================================================================================
+
+
+THE BUSINESS PROBLEM
+--------------------
+The Australian public hospital system faces systemic pressures across three 
+critical domains: Emergency Department (ED) access, Elective Surgery capacity, 
+and overall Health Expenditure.
+
+Key challenges include:
+
+1. EMERGENCY DEPARTMENT OVERLOAD
+   Presentations are increasing annually, leading to longer waiting times. 
+   Identifying which triage categories and hospital peer groups are failing 
+   to meet clinical targets (e.g., % seen on time) is critical for policy.
+
+2. ELECTIVE SURGERY BACKLOGS
+   Waitlists for non-urgent surgeries have ballooned. There is no unified view 
+   comparing state-by-state performance or identifying which specialties (e.g., 
+   Ophthalmology, Orthopaedics) are the primary bottlenecks.
+
+3. RESOURCE & COST EFFICIENCY
+   With health expenditure rising, there is a need to correlate spending with 
+   performance outcomes across different states and hospital peer groups.
+
+
+WHAT THIS PLATFORM DOES
+------------------------
+A centralized analytics engine that processes AIHW (Australian Institute of 
+Health and Welfare) national data to provide a "single source of truth" for 
+system-wide performance:
+
+  Question                              Where to find the answer
+  ------------------------------------  ----------------------------------
+  How are ED wait times trending?       Notebook 01, Power BI ED Overview
+  Which triage levels are most delayed? Notebook 01, Triage Performance page
+  What is the elective backlog size?    Notebook 03, Elective Overview
+  Which specialties have longest waits? Notebook 03, Specialty Analysis
+  Are some states performing better?    Notebook 01/03, State Comparison
+  How is the Star Schema structured?    Notebook 02/04, Data Modelling
+
+
+CORE DATASETS
+--------------
+  Domain           Data Source          Scope
+  ------           ---------------      --------------------------------
+  ED Care          AIHW Table 2.2-6.3   Wait times, triage, demographics
+  Elective Surgery AIHW Table 2.1-4.10  Waitlists, admissions, specialties
+  Expenditure      AIHW Table 3-B24     Health spending across Australia
+
+  Data period: 2024–25 (Latest available AIHW releases)
+
+
+DATA PIPELINE
+-------------
+  AIHW Master Files (Excel)
+       |
+       v
+  Filtered Excel Extracts (data/raw)
+       |
+       +---> Processing (data/processed)
+       |        - Multi-sheet cleaning (openpyxl)
+       |        - Standardizing state/year formats
+       |        - Handling "n.p." (not published) and missing values
+       |        - Metric-level pivoting and normalization
+       |
+       +---> Modelling (data/modelled)
+       |        - Star Schema implementation (Medallion Architecture)
+       |        - Fact tables for Metrics and Triage
+       |        - Dimensions for State, Year, Specialty, Urgency
+       |        - Optimized for Power BI Relationship Engine
+       |
+       v
+  CSV Star Schema Exports (Fact & Dimension)
+  + 4 Jupyter Notebooks (EDA & Modelling)
+  + Power BI Report (ED_report.pbix)
+
+
+KEY FINDINGS (PRELIMINARY)
+---------------------------
+1. TRIAGE 3 (URGENT) PERFORMANCE VARYING
+   While Triage 1 (Resuscitation) targets are largely met, Triage 3 patients 
+   often face the greatest variability in "Seen on Time" metrics across states.
+
+2. PEER GROUP CLASSIFICATION MATTERS
+   Principal referral hospitals (Group 3) consistently handle higher volumes 
+   but show different wait time distributions compared to Public Acute Group A.
+
+3. SPECIALTY BOTTLENECKS
+   Orthopaedic and Ophthalmology surgeries consistently report higher median 
+   wait times compared to General Surgery across most Australian states.
+
+4. MEDALLION ARCHITECTURE UTILITY
+   The shift from complex AIHW Excel sheets to a clean Star Schema reduced 
+   Power BI report load times and simplified DAX measure complexity.
+
+
+ANALYSIS NOTEBOOKS
+------------------
+  Notebook   Title                        Focus
+  --------   -------------------------    -------------------------------------------
+  01         ED EDA                       Emergency Dept data cleaning & early insights
+  02         ED Data Modelling            Building the Star Schema for ED facts
+  03         Elective EDA                 Elective surgery waitlist & specialty analysis
+  04         Elective Data Modelling      Building the Star Schema for Elective facts
+
+
+TOOLS & TECHNOLOGIES
+--------------------
+  - Python 3.11+
+  - Pandas (Data manipulation)
+  - Openpyxl (Excel engine)
+  - Jupyter Notebooks (EDA)
+  - Power BI (DAX & Visualization)
+  - Star Schema Methodology
+
+
+================================================================================
