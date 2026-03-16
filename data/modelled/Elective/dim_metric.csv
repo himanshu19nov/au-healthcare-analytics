@@ -1,7 +1,0 @@
-metric_id,metric
-1,Admissions
-2,"Admissions per 1,000 population"
-3,Days waited at the 50th percentile
-4,Days waited at the 90th percentile
-5,Percentage waited more than 365 days
-6,Per cent of admissions
