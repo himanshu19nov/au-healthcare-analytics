@@ -16,6 +16,16 @@ Elective surgery volumes collapsed during COVID-19 and have since recovered — 
 3. Health Expenditure Transparency
 With health spending rising year-on-year, there is a need to understand where money is going — by state, by funding source, and by expenditure area — and whether increased spending translates to improved outcomes
 
+## Report Structure
+
+Each Power BI report follows the same 3-page structure:
+
+| Page | Purpose |
+|------|---------|
+| Overview | National-level KPIs, trends, and breakdowns |
+| State Detail | Drill-through from any state visual — state vs national comparison |
+| Key Findings | Executive summary with insights and conclusion |
+
 
 ## Key Findings
 ### Emergency Department
@@ -26,6 +36,18 @@ With health spending rising year-on-year, there is a need to understand where mo
 - The 4-hour benchmark has fallen every year from 51% in FY20/21 to 41.6% in FY24/25 — at the current rate, fewer than 40% of patients will be processed within 4 hours by FY26/27
 - NSW consistently outperforms the national average on ED metrics, while smaller states show higher volatility
 
+Overview
+<img width="1306" height="731" alt="image" src="https://github.com/user-attachments/assets/f8a67b8a-e36d-47c4-a2eb-f613aa016f8b" />
+
+State Detail
+<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/dc8e1515-1959-4b0e-87b4-b60de141df00" />
+
+Key Findings
+<img width="1304" height="696" alt="image" src="https://github.com/user-attachments/assets/837c1df3-9197-4211-b68c-24478cecd7f7" />
+
+
+
+
 ### Elective Surgery
 
 - Admissions dropped sharply in FY21/22 due to COVID-19, with a strong V-shaped recovery through FY24/25
@@ -33,6 +55,15 @@ With health spending rising year-on-year, there is a need to understand where mo
 - Orthopaedic surgery has the slowest post-COVID recovery, remaining below pre-pandemic volumes through FY24/25
 - NSW underperforms on elective surgery — median wait of 65 days vs national average of 46 days
 - Elective surgery in Australia is recovering in quantity but not yet in equity — more patients are being treated, but the hardest cases are still waiting the longest
+
+Overview
+<img width="1291" height="723" alt="image" src="https://github.com/user-attachments/assets/00eb8d50-2797-4183-b001-398a2a37090c" />
+
+State Detail
+<img width="1307" height="720" alt="image" src="https://github.com/user-attachments/assets/0ec42fb9-46d3-47a2-a088-821ffd9389a1" />
+
+Key Findings
+<img width="1305" height="729" alt="image" src="https://github.com/user-attachments/assets/16500e3c-f4b8-41a1-bc1c-97c51759953f" />
 
 
 ## Data Sources
@@ -45,16 +76,7 @@ With health spending rising year-on-year, there is a need to understand where mo
 
 Data period: FY2013/14 – FY2024/25
 
-
-## Report Structure
-
-Each Power BI report follows the same 3-page structure:
-
-| Page | Purpose |
-|------|---------|
-| Overview | National-level KPIs, trends, and breakdowns |
-| State Detail | Drill-through from any state visual — state vs national comparison |
-| Key Findings | Executive summary with insights and conclusion |
+Source: [Australian Institute of Health and Welfare (AIHW)](https://www.aihw.gov.au/reports-data/myhospitals/sectors)
 
 
 
